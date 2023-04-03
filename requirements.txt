@@ -9,3 +9,4 @@ Werkzeug==1.0.1
 gradio==3.1.4
 onnxruntime==1.12.1
 cvu-python
+opencv-contrib-python-headless
